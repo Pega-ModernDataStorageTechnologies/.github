@@ -3,7 +3,7 @@
     <img src="https://www.pega.com/themes/custom/pegawww_theme/images/pega-logo.svg" alt="pega" width="500">
   </a>
   <br/>
-  <h1>Modern Data Storage Technologies</h1>
+  <h1 align="center">Modern Data Storage Technologies</h1>
 </p>
 
 ---
