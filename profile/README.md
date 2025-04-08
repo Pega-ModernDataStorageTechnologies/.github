@@ -32,7 +32,12 @@ _Agile Change Management:_
 
 ---
 <div align="center">
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Map_marker.svg" alt="map" width="20">
+  <div>
+    Puszkarska 7h<br/>
+    Kraków<br/>
+    Building C<br/>
+  </div>
 </div>
 
 
