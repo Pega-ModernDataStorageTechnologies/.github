@@ -12,19 +12,19 @@ Presentations were prepared based on the **feedback** of our former Interns, who
 
 ---
 
-<h3>MARCH 6, 2025; 16:00-19:00</h3>
-<h1>k8s - from zero to almost hero</h1>
+<h3>March 6, 2025; 16:00-19:00</h3>
+<h2>k8s - from zero to almost hero</h2>
 
-MARCH 20, 2025; 16:00-19:00
-DevOps in Action:
-A Hands-On Guide to Building a Modern SDLC
+<h3>March 20, 2025; 16:00-19:00</h3>
+<h2>DevOps in Action:</h2>
+<h2>A Hands-On Guide to Building a Modern SDLC</h2>
 
-April 10, 2025; 16:00-19:00
-Agile Change Management:
-Adapt & Engage
+<h3>April 10, 2025; 16:00-19:00</h3>
+<h2>Agile Change Management:</h2>
+<h2>Adapt & Engage</h2>
 
-April 24, 2025; 16:00-19:00
-Modern data storage technologies
+<h3>April 24, 2025; 16:00-19:00</h3>
+<h2>Modern data storage technologies</h2>
 
 ---
 <div align="center">
